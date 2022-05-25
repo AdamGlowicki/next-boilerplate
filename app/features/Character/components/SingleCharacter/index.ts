@@ -1,0 +1,1 @@
+export { CharacterComponent } from './Character';

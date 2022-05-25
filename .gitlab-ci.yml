@@ -1,0 +1,28 @@
+include:
+  - project: 'merixstudio/pts/pipelines'
+    ref: 'master'
+    file: '/Pipeline.gitlab-ci.yml'
+
+variables:
+  DOCKERFILE: docker/Dockerfile
+  LINT_ENABLED: 1
+  LINT_DOCKERFILE: docker/Dockerfile.dev
+  TEST_ENABLED: 1
+  TEST_DOCKERFILE: docker/Dockerfile.dev
+
+# If your project can't use code-coverage feature you can comment this whole thing out
+test:
+  variables:
+    COPY_FILES_RELATIVE_PATH: coverage
+  coverage: /All\sfiles.*?\s+(\d+.\d+)/
+  artifacts:
+    when: always
+    paths:
+      - coverage/cobertura-coverage.xml
+      - coverage/junit.xml
+    reports:
+      coverage_report:
+        coverage_format: cobertura
+        path: coverage/cobertura-coverage.xml
+      junit: coverage/junit.xml
+    expire_in: 1 week

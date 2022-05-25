@@ -1,0 +1,41 @@
+{
+  "5cc3Tm": {
+    "defaultMessage": "كلمة المرور",
+    "description": "password input placeholder"
+  },
+  "GZJVjm": {
+    "defaultMessage": "جمع",
+    "description": "title of plural section"
+  },
+  "app.intl.titles.date": {
+    "defaultMessage": "تاريخ",
+    "description": "title of date section"
+  },
+  "cST5I+": {
+    "defaultMessage": "تسجيل الدخول",
+    "description": "login form submit button"
+  },
+  "e2EQ4A": {
+    "defaultMessage": "You have {itemCount, plural, =0 {no items} one {1 item} two {{itemCount} items} few {{itemCount} items} many {{itemCount} items} other {{itemCount} items} }."
+  },
+  "qoK3bp": {
+    "defaultMessage": "زمن",
+    "description": "title of time section"
+  },
+  "r9Y6Hn": {
+    "defaultMessage": "عدد",
+    "description": "title of number section"
+  },
+  "T5a7ij": {
+    "defaultMessage": "هذا مثال على صفحة {library} الميزات",
+    "description": "title of translation page"
+  },
+  "VNjd0g": {
+    "defaultMessage": "جميع المكونات والوظائف الأخرى التي يمكنك أن تجدها هنا: {link}.",
+    "description": "description of translation page"
+  },
+  "z82q+i": {
+    "defaultMessage": "بريد الالكتروني",
+    "description": "email input placeholder"
+  }
+}

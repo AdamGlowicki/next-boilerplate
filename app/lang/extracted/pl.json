@@ -1,0 +1,41 @@
+{
+  "5cc3Tm": {
+    "defaultMessage": "Hasło",
+    "description": "password input placeholder"
+  },
+  "GZJVjm": {
+    "defaultMessage": "Liczba mnoga",
+    "description": "title of plural section"
+  },
+  "app.intl.titles.date": {
+    "defaultMessage": "Data",
+    "description": "title of date section"
+  },
+  "cST5I+": {
+    "defaultMessage": "Login",
+    "description": "login form submit button"
+  },
+  "e2EQ4A": {
+    "defaultMessage": "Masz {itemCount, plural, =0 {zero produktów} one {1 produkt} two {{itemCount} produkty} few {{itemCount} produkty} many {{itemCount} produktów} other {{itemCount} produktów} }."
+  },
+  "qoK3bp": {
+    "defaultMessage": "Czas",
+    "description": "title of time section"
+  },
+  "r9Y6Hn": {
+    "defaultMessage": "Liczby",
+    "description": "title of number section"
+  },
+  "T5a7ij": {
+    "defaultMessage": "To przykładowa strona z przykładami {library}",
+    "description": "title of translation page"
+  },
+  "VNjd0g": {
+    "defaultMessage": "Wszystkie inne komponenty i funkcje możesz znaleźć tutaj: {link}.",
+    "description": "description of translation page"
+  },
+  "z82q+i": {
+    "defaultMessage": "E-mail",
+    "description": "email input placeholder"
+  }
+}

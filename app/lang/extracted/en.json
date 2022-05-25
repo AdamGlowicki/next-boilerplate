@@ -1,0 +1,41 @@
+{
+  "5cc3Tm": {
+    "defaultMessage": "Password",
+    "description": "password input placeholder"
+  },
+  "GZJVjm": {
+    "defaultMessage": "Plural",
+    "description": "title of plural section"
+  },
+  "T5a7ij": {
+    "defaultMessage": "This is example page of {library} features",
+    "description": "title of translation page"
+  },
+  "VNjd0g": {
+    "defaultMessage": "All other components and functions you can find here: {link}.",
+    "description": "description of translation page"
+  },
+  "app.intl.titles.date": {
+    "defaultMessage": "Date",
+    "description": "title of date section"
+  },
+  "cST5I+": {
+    "defaultMessage": "Login",
+    "description": "login form submit button"
+  },
+  "e2EQ4A": {
+    "defaultMessage": "You have {itemCount, plural, =0 {no items} one {1 item} two {{itemCount} items} few {{itemCount} items} many {{itemCount} items} other {{itemCount} items} }."
+  },
+  "qoK3bp": {
+    "defaultMessage": "Time",
+    "description": "title of time section"
+  },
+  "r9Y6Hn": {
+    "defaultMessage": "Number",
+    "description": "title of number section"
+  },
+  "z82q+i": {
+    "defaultMessage": "E-mail",
+    "description": "email input placeholder"
+  }
+}
